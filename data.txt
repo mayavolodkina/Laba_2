@@ -1,0 +1,3 @@
+Первая почта: test@example.com, и вторая user.name@company.org.
+Неправильная почта: @bad.ru или text@.com
+Четвертая почта valid_mail@domain.net
